@@ -37,10 +37,10 @@
 
 ### 💻 Tech Stack
 
-**Low-level & Systems:** C 
-**Application Development:** C#  
-**Web Development:** JavaScript, HTML, CSS  
-**Tools:** Git, VS Code, Visual Studio, Rider  
+- **Low-level & Systems:** C 
+- **Application Development:** C#  
+- **Web Development:** JavaScript, HTML, CSS  
+- **Tools:** Git, VS Code, Visual Studio, Rider  
 
 ###
 
