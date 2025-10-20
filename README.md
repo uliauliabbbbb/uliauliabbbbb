@@ -44,13 +44,6 @@
 
 ###
 
-### 🌟 My Dream
-
-To skate on the frozen surface of **Lake Baikal** and one day **gift my parents a house by the sea**.  
-Because every line of code brings me a little closer to that dream
-
-###
-
 ### 📫 Contact Me
 
 - **Telegram:** [@ululululululyia](https://t.me/ululululululyia)  
