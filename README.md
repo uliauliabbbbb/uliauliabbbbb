@@ -47,4 +47,4 @@
 - **Telegram:** [@ululululululyia](https://t.me/ululululululyia)  
 - **Email:** [aigulsobakuno@gmail.com](mailto:aigulsobakuno@gmail.com)  
 
-<p align="left">✨ Let's build something amazing together!</p>
+<p align="left">Просто люблю создавать что-то крутое 💜</p>
