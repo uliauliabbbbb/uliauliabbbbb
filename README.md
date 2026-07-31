@@ -45,7 +45,7 @@
 **Фронт:** React, TypeScript, JavaScript, Tailwind, Zustand, React Router, Axios, Vite, HTML, CSS
 **Бэк и БД:** Node.js, Express, Prisma, PostgreSQL, Zod, JWT
 **Инструменты:** Git, VS Code, Figma, Visual Studio, Rider
-**Языки:** C, C#
+**Языки:** C, C#, Python, Go
 
 ###
 
